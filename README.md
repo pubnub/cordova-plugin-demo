@@ -12,10 +12,12 @@ You can either use [PhoneGap Build](https://build.phonegap.com/apps) cloud tool,
 
 1. Go to [PhoneGap Build](https://build.phonegap.com/apps) and sign in
 2. Click **"+ New App"** button
-3. Paste this Git URL, *https://github.com/pubnub/cordova-plugin-demo.git* in the field (the branch is *master*)
+3. Paste this Git URL, *https://github.com/pubnub/cordova-plugin-demo.git* in the field (the branch is *master* but you can leave it blank)
 4. Click the **"Pull from .git repository"** button
+5. When it finish fetching the code, click **Ready to Build**
+6. Scan the QR Code with your device
 
-That's it!
+or,
 
 ### 2. Using Cordova CLI
 
