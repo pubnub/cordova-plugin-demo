@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.pubnub.plugindemo" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.pubnub.phonegapsimpledemo" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>SimpleChatPluginDemo</name>
     <description>
         A Cordova application demo using an existing chat web app with PubNub Plugin.
@@ -7,6 +7,7 @@
     <author email="tomomi@pubnub.com" href="http://pubnub.com">
         Tomomi Imura
     </author>
+    <gap:plugin name="com.pubnub.cordova.pubnub" />
     <content src="index.html" />
     <access origin="*" />
 </widget>
