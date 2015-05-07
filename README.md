@@ -1,12 +1,12 @@
 # Super Simple Chat Demo, using PubNub Cordova Plugin
 
-This demo utilize's Pubnub's Phonegap Plugin available from: https://build.phonegap.com/plugins/2382, also available via the Cordova plugins directory at: http://plugins.cordova.io/#/package/com.pubnub.cordova.pubnub
+This demo utilizes Pubnub's Phonegap Plugin, available from: https://build.phonegap.com/plugins/2382, also available via the Cordova plugins directory at: http://plugins.cordova.io/#/package/com.pubnub.cordova.pubnub
 
 ![image](http://www.pubnub.com/blog/wp-content/uploads/2014/10/phonegap.jpg)
 
-## How to Run this App
+## How to Run this Demo App
 
-You can either use [PhoneGap Build](https://build.phonegap.com/apps) cloud tool, or build it by yourself using Cordova command-line interface (CLI) tools.
+You can *either* use [PhoneGap Build](https://build.phonegap.com/apps) cloud tool, or build it by yourself using Cordova command-line interface (CLI) tools.
 
 ### 1. Using PhoneGap Build
 
