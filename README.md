@@ -24,6 +24,7 @@ or,
 Clone this repo, add mobile platforms (e.g. Andorid), add plugin, then run!
 
 1. `$ git clone https://github.com/pubnub/cordova-plugin-demo.git`
-2. `$ cordova platform add android` (or other mobile platforms you need) 
-3. `$ cordova plugin add com.pubnub.cordova.pubnub`
-4. `$ cordova run`
+2. `$ cd cordova-plugin-demo`
+3. `$ cordova platform add android` (or other mobile platforms you need) 
+4. `$ cordova plugin add com.pubnub.cordova.pubnub`
+5. `$ cordova run`
